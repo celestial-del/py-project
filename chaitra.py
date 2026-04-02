@@ -213,7 +213,7 @@ st.markdown(f"""
 days = (today - DAYS_TOGETHER).days
 st.markdown(f"""
 <div class="date-card">
-    <div class="date-label">days since our first kiss 💋</div>
+    <div class="date-label">days since we are together 💋</div>
     <div class="date-num">{days}</div>
     <div class="date-label" style="margin-top:0.5rem;">and every one of them has been worth it</div>
 </div>
